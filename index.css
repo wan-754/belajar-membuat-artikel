@@ -1,0 +1,47 @@
+html, body {
+    margin: 0%;
+    height: 100%;
+}
+
+.name{
+    padding: 15px;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+    /* background-color: red; */
+}
+
+h1 {
+    background-color: red;
+    color: white;
+}
+
+.table{
+    padding: 15px;
+}
+
+table {
+    border: 1px;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+table thead tr td {
+    border: 1px solid black;
+    background-color: red;
+    color: white;
+}
+
+table tbody tr td {
+    border: 1px solid black;
+    text
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: rgb(255, 0, 0);
+    transition: all .3s ease-in-out;
+}
